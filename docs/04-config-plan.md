@@ -74,7 +74,7 @@
 本项目使用 **GitHub** 作为配置库，库地址：[待填写仓库URL]
 
 **配置库目录结构**：
-
+```mermaid
 graph LR 
     root[项目根目录] --> docs[docs/]
     root --> src[src/]
@@ -87,7 +87,8 @@ graph LR
     docs --> dc3[schedule.md]
     docs --> dc4[configuration-plan.md]
     docs --> dc5[summary-report.md]
-    docs --> dc9[conflict.md]
+    docs --> dc6[conflict.md]
+```
    
 ### 3.2 配置控制程序
 
