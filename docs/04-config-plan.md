@@ -75,7 +75,6 @@
 
 **配置库目录结构**：
 
-```mermaid
 graph LR 
     root[项目根目录] --> docs[docs/]
     root --> src[src/]
