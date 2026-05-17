@@ -54,7 +54,7 @@
 
 #### 2.1.3 配置库
 
-本项目使用 **GitHub** 作为配置库，库地址：[(https://github.com/fen-yang/-/blob)]
+本项目使用 **GitHub** 作为配置库，库地址：[(https://github.com/fen-yang/-)]
 
 **分支策略**：
 | 分支类型 | 分支名称 | 用途 |
